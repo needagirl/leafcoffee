@@ -1,6 +1,7 @@
 # leafcoffee : 카페 프렌차이즈 관리
 
 # 🗣 서비스 소개
+![adminmain1](https://user-images.githubusercontent.com/82207938/141238766-75cdbc7e-6b14-4d4e-b0e9-c4707300bbd0.png)
 
 
 # 🛠 기술스택
