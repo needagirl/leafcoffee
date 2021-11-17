@@ -1,5 +1,7 @@
 # leafcoffee : Coffee Franchise Management Web Service
   시연연상 : https://www.youtube.com/watch?v=RN_57__vnU8
+  
+   ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/82207938/141738904-904d3f87-6d0c-445e-a0f8-db5f84adffa5.gif)
 
 # 🗣 서비스 소개
   고객은 웹에서 카페이용에 대한 정보확인를 확인 할 수 있습니다. <br/>상품을 주문하고 신규 가맹점을 신청하는 서비스를 이용 가능합니다. <br/>
